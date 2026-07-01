@@ -15,7 +15,7 @@ Configurar un router (`Router_FW`) con tres redes conectadas (Interna, DMZ y Ext
 
 ## Contenido del repositorio
 
-- `topologia.pka` → archivo de Packet Tracer con la red simulada.
+- `building-and-securing-a-network-with-a-dmz.pka` → archivo de Packet Tracer resultante con la red simulada.
 - `README.md` → este documento.
 
 ## Qué se logró
